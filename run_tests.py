@@ -4,5 +4,5 @@ import unittest
 from tests.excel_test import *
 
 # запускаем тесты
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()
